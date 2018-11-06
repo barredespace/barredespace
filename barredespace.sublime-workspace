@@ -1,0 +1,965 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"comm\tComment - Single-line block comment"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fa-ex",
+				"fa-external-link\t font-awesome.min.css"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"unde",
+				"undefined〔keyword〕"
+			],
+			[
+				"nu",
+				"null"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fl",
+				"fl-n\tfloat: none;"
+			],
+			[
+				"m",
+				"m\tmargin"
+			],
+			[
+				"navbar",
+				"navbar-nav\t custom.css"
+			],
+			[
+				"txt",
+				"text-transform"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"c",
+				"c\tcolor: #${1:000};"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bacrd",
+				"background"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"t",
+				"top\tCSS - top: 0;"
+			],
+			[
+				"vr",
+				"vertical-align"
+			],
+			[
+				"domaine",
+				"domainedelatour34"
+			],
+			[
+				"P",
+				"pdf/"
+			],
+			[
+				"a",
+				"<a href=\"${1001}\">${1002:$SELECTION}</a>"
+			],
+			[
+				"tex",
+				"text-align\tzen:css_properties"
+			],
+			[
+				"b",
+				"bourgeoisvideo.swf"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"mar",
+				"margin\tmargin: T R B L"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 385.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Sync Remote -> Local…"
+			],
+			[
+				"newdire",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"sycs",
+				"Set Syntax: CSS"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"presett",
+				"Preferences: Settings"
+			],
+			[
+				"pui",
+				"Packages UI"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"rempack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopack",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"Side-by-Side: Select a File"
+			],
+			[
+				"pacui",
+				"Packages UI"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"pack",
+				"Packages UI"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Packages UI"
+			],
+			[
+				"sftd",
+				"SFTP: Download File"
+			],
+			[
+				"sftpsw",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"sftpa",
+				"SFTP: Add Alternate Remote Mapping…"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"Rename Local and Remote Files"
+			],
+			[
+				"ordesr",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"proc",
+				"Project: Close"
+			],
+			[
+				"comm",
+				"Unfold Comments"
+			],
+			[
+				"fol",
+				"Fold Comments"
+			],
+			[
+				"projec",
+				"Project: Close"
+			],
+			[
+				"del",
+				"Delete Local and Remote Files"
+			],
+			[
+				"ren",
+				"Rename Local and Remote Files"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"wrbrac",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"loca",
+				"Local History: Compare"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"tc",
+				"Toggle Comment"
+			],
+			[
+				"tob",
+				"Toggle Block Comment"
+			],
+			[
+				"toc",
+				"Toggle Comment"
+			],
+			[
+				"pares",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"align",
+				"AlignTab"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"brw",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"powc",
+				"PowerCursors: Exit"
+			],
+			[
+				"powa",
+				"PowerCursors: Activate all cursors"
+			],
+			[
+				"pow",
+				"PowerCursors: Add cursor"
+			],
+			[
+				"orcrr",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"histo",
+				"Local History: Compare"
+			],
+			[
+				"dec",
+				"Emmet: Decrement Number by 10"
+			],
+			[
+				"decr",
+				"Emmet: Decrement Number by 1"
+			],
+			[
+				"php",
+				"Snippet: <?php … ?>"
+			],
+			[
+				"cos",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"book",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"cosi",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"boone",
+				"SublimeBookmarks: Goto Next Bookmark"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Goto Next Bookmark"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Next"
+			],
+			[
+				"cosi\t",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"coml\t",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"odr",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"orcrri",
+				"Origami: Create and Focus Pane on the Right"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"poe",
+				"PowerCursors: Exit"
+			],
+			[
+				"curs",
+				"PowerCursors: Activate all cursors"
+			],
+			[
+				"wrap",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"sncom",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"bf",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"fcom",
+				"Fold Comments"
+			],
+			[
+				"bkf",
+				"BracketHighlighter: Fold Bracket Content"
+			],
+			[
+				"cod",
+				"Code Folding: Unfold All"
+			],
+			[
+				"foco",
+				"Fold Comments"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"o",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"od",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"ocr",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ke",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"orimol",
+				"Origami: Move File to Pane on the Left"
+			],
+			[
+				"local",
+				"Local History: Compare"
+			],
+			[
+				"blocom",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"snihtml",
+				"Snippet: htmlboiler"
+			],
+			[
+				"comcs",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"com",
+				"Snippet: Comment - HTML comment"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"loc",
+				"Local History: Browse"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wra",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html",
+				"Snippet: HTML - Anchor"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"for",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"ht\t\t",
+				"Snippet: HTML - Comment"
+			],
+			[
+				"so",
+				"Sort Lines"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"html w",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"form",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"auto",
+				"Tag: Auto-Format Tags on Selection"
+			],
+			[
+				"guil",
+				"Snippet: HTML - Guillemets français"
+			],
+			[
+				"guill",
+				"Snippet: HTML - Guillemets français"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"html ",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html t",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"html ta",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"sftp canc",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"chan",
+				"Package Control: Add Channel"
+			],
+			[
+				"the",
+				"Themr: Soda Dark"
+			],
+			[
+				"th",
+				"Themr: Default"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Erlang)"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pac/Dropbox/Sites/barredespace.fr"
+	],
+	"file_history":
+	[
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/components/com_docman/views/submit/tmpl/form.html.php",
+		"/Users/pac/Library/Application Support/Sublime Text 3/Packages/Open In Browser/README.md",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/modules/mod_jbcookies/language/fr-FR/fr-FR.mod_jbcookies.ini",
+		"/Users/pac/Library/Application Support/Sublime Text 3/Packages/LinkOpener/README.md",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/media/editors/tinymce/langs/readme.md",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/templates/anaeefrance2/css/custom.css",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/templates/anaeefrance2/html/com_docman/submit/default.php",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/sftp-config.json",
+		"/Users/pac/Dropbox/Sites/anaee-france.fr/sftp-config-alt.json",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/css/custom.css",
+		"/Users/Pac/Sites/anaee-france.fr/language/en-GB/en-GB.com_finder.ini",
+		"/Users/Pac/Sites/anaee-france.fr/language/fr-FR/fr-FR.com_search.ini",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/index.php",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/images/banniere.svg",
+		"/Users/Pac/Sites/anaee-france.fr/sftp-config.json",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Git/README.markdown",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Toggle Read-Only/toggle-readonly.sublime-settings",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Toggle Read-Only/README.md",
+		"/Users/Pac/Sites/anaee-france.fr/modules/mod_listmanager/tmpl/content.php",
+		"/Users/Pac/Sites/anaee-france.fr/modules/mod_listmanager/tmpl/content.old.php",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/readme.md",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Auto Semi-Colon/README.rst",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/ReadmePlease/README.md",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/php-snippets/README.md",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/language/fr-FR/fr-FR.tpl_anaeefrance2.ini",
+		"/Users/Pac/Sites/anaee-france.fr/language/fr-FR/fr-FR.mod_search.ini",
+		"/Users/Pac/Sites/anaee-france.fr/language/en-GB/en-GB.mod_search.ini",
+		"/Users/Pac/Sites/anaee-france.fr/components/com_listmanager/views/listmanagerfront/tmpl/default.php",
+		"/Users/Pac/Sites/anaee-france.fr/components/com_listmanager/assets/js/listmanager.js",
+		"/Users/Pac/Sites/archiduffour/css/main.css",
+		"/Users/Pac/Sites/AnaEE V3/plugins/content/mavikthumbnails/decorators/popups/highslide/DecoratorHighslide.php",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/templateDetails.xml",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/css/template.css",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/language/en-GB/en-GB.tpl_anaeefrance2.ini",
+		"/Users/Pac/Sites/mivegec/mivegec nouveau/templates/mivegec/html/mod_languages/default.php",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/readme.md",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/CSScomb/README.md",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Inc-Dec-Value/README.md",
+		"/Users/Pac/Sites/anaee-france.fr/sftp-config-alt.json",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance2/css/anaeefr.css",
+		"/Users/Pac/Desktop/sublime_sftp_debug.txt",
+		"/Users/Pac/Sites/test Anaee/www.anaee.com/templates/anaee/index.php",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/css/template.css",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/css/template.less",
+		"/Users/Pac/Sites/test Anaee/www.anaee.com/templates/anaee/css/editor.css",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/css/bootstrap/variables.less",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/css/editor.css",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/logic.php",
+		"/Users/Pac/Sites/anaee-france.fr/_icônes AnaEE France/exemple.html",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/templateDetails.xml",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/index.php",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/Less2Css/README.md",
+		"/Users/Pac/Sites/test Anaee/www.anaee.com/templates/anaee/css/template.css",
+		"/Users/Pac/Sites/anaee-france.fr/media/system/images/picto_rss.svg",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/html/mod_syndicate/default.php",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/css/bootstrap/bootstrap.less",
+		"/Users/Pac/Sites/anaee-france.fr/components/com_listmanager/language/en-GB/en-GB.com_listmanager.ini",
+		"/Users/Pac/Sites/anaee-france.fr/templates/anaeefrance/error.php",
+		"/Users/Pac/Sites/superolol.com/index.html",
+		"/Users/Pac/Sites/superolol.com/erreurs/mod404.php",
+		"/Users/Pac/Sites/superolol.com/erreurs/404.php",
+		"/Users/Pac/Sites/creec/templates/creec/css/template.css",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/Pac/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/pac/Dropbox/boulot/aurou.com - Site/prod/État des lieux/vizu.dot",
+		"/Users/pac/Sites/superolol.com/theatre.html",
+		"/Users/pac/Sites/superolol.com/index.html",
+		"/Users/pac/.sublime/history/Users/pac/Sites/superolol.com/2013-05-13_16.47.55.index.html",
+		"/Users/pac/Dropbox/boulot/fac/fac 12-13/S1/rendu/Rendus originaux/index.php",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/pac/Sites/superolol.com/highslide/highslide.css",
+		"/Users/pac/Sites/superolol.com/css2/style.css",
+		"/Users/pac/Sites/superolol.com/highslide/highslide.config.js",
+		"/Users/pac/Sites/superolol.com/pdf/dossier_bourgeois.pdf",
+		"/Users/pac/Sites/superolol.com/images/bourgeoisphoto01gd.jpg",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pac/Sites/superolol.com/dossier_bourgeois.pdf",
+		"/Users/pac/Sites/superolol.com/dossier_bourgeois_final3_alter[mail].pdf",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/HTML Snippets/a.sublime-snippet",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/User/guill.sublime-snippet",
+		"/Users/pac/Sites/superolol.com/sftp-config.json",
+		"/Users/pac/Sites/superolol.com/contact.html",
+		"/Users/pac/Sites/superolol.com/video/bourgeois.flv",
+		"/Users/pac/Sites/superolol.com/video/bourgeoisvideo.swf",
+		"/Users/pac/Sites/superolol.com/superolol.sublime-project",
+		"/Users/pac/Documents/Sites/superolol.com/index.html",
+		"/Users/pac/Documents/Sites/superolol.com/ftpsync.settings",
+		"/Users/pac/Documents/Sites/superolol.com/superolol.sublime-project",
+		"/Users/pac/Documents/Sites/first-immo.com/first-immo.sublime-project",
+		"/Users/pac/Documents/Sites/passerelles/ftpsync.settings",
+		"/Users/pac/Documents/Sites/first-immo.com/style.css",
+		"/Users/pac/Documents/Sites/clausesociale34.fr/templates/cs34/index.php",
+		"/Users/pac/Documents/Sites/toitsdechoix.com/templates/tdc/templateDetails.xml",
+		"/Users/pac/Documents/Sites/first-immo.com/template/fr/page1_main.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/en/page1_main.html",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Synchronized File Scrolling/Default (OSX).sublime-keymap",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/ScrollOffset/Scroll Offset.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Tomorrow Night Theme/Tomorrow-Night-Eighties.tmTheme",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/pac/Documents/Sites/first-immo.com/template/template.css",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/User/Side Bar.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/pac/Documents/Sites/first-immo.com/template/fr/search_result_default.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/fr/main.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/en/main.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/fr/listing_detail_default.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/en/listing_detail_default.html",
+		"/Users/pac/Documents/Sites/first-immo.com/template/en/index.php",
+		"/Users/pac/Documents/Sites/first-immo.com/ftpsync.settings",
+		"/Users/pac/Documents/Sites/toitsdechoix.com/templates/tdc/index.php",
+		"/Users/pac/Documents/Sites/toitsdechoix.com/templates/template.css",
+		"/Users/pac/Documents/Sites/toitsdechoix.com/templates/test.html",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/FTPSync/fptsync.sublime-settings",
+		"/Users/pac/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/pac/Documents/Sites/toitsdechoix.com/templates/template.less",
+		"/Users/pac/Downloads/1140_CssGrid_2/css/1140.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 146.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 162.0
+	},
+	"output.Terminus":
+	{
+		"height": 164.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 162.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "",
+	"project": "barredespace.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"✔ Packages UI"
+			],
+			[
+				"p",
+				"✔ Packages UI"
+			],
+			[
+				"read",
+				"media/editors/tinymce/langs/readme.md"
+			],
+			[
+				"cust",
+				"templates/anaeefrance2/css/custom.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Sites/animalfuture.eu/animalfuture.sublime-project"
+			],
+			[
+				"ani",
+				"~/Dropbox/Sites/animalfuture.eu/animalfuture.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
